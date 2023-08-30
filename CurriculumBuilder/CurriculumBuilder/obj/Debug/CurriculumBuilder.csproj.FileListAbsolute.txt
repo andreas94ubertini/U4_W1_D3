@@ -1,0 +1,7 @@
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\bin\Debug\CurriculumBuilder.exe.config
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\bin\Debug\CurriculumBuilder.exe
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\bin\Debug\CurriculumBuilder.pdb
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\obj\Debug\CurriculumBuilder.csproj.AssemblyReference.cache
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\obj\Debug\CurriculumBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\obj\Debug\CurriculumBuilder.exe
+C:\Users\ubert\Desktop\prog\C# DotNet\CurriculumBuilder\CurriculumBuilder\obj\Debug\CurriculumBuilder.pdb

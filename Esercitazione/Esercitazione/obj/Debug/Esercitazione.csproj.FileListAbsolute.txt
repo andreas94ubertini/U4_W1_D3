@@ -1,0 +1,7 @@
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\bin\Debug\Esercitazione.exe.config
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\bin\Debug\Esercitazione.exe
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\bin\Debug\Esercitazione.pdb
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\obj\Debug\Esercitazione.csproj.AssemblyReference.cache
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\obj\Debug\Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\obj\Debug\Esercitazione.exe
+C:\Users\ubert\Desktop\Epicode\U4_W1_D3\Esercitazione\Esercitazione\obj\Debug\Esercitazione.pdb
